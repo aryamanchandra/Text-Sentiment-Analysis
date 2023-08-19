@@ -1,2 +1,2 @@
 # Toxicity-Checker
-A toxic comment checker using Deep Learning.
+Deep Learning model for sentiment analysis of text.
